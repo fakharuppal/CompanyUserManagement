@@ -21,7 +21,7 @@ The project is divided into three files for modularity:
 
 ## ⚙️ Features
 
-**Dynamic Employee Creation:**
+Dynamic Employee Creation:**
 Users can specify how many employee records to create, with memory allocated dynamically at runtime.
 **Deep Copy Constructor:**
 Safely duplicates employee data (including dynamically allocated memory), demonstrating the difference from a shallow copy.
