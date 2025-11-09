@@ -125,6 +125,3 @@ Total Employee Created: 3
 ```
 
 ---
-
-Would you like me to add **UML class diagram** (ASCII or image form) for this documentation?
-It looks great in GitHub READMEs and helps visualize relationships.
