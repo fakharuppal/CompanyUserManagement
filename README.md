@@ -19,7 +19,7 @@ The project is divided into three files for modularity:
 
 ---
 
-## ⚙️ Features
+## Features
 
 Dynamic Employee Creation:
 Users can specify how many employee records to create, with memory allocated dynamically at runtime.
@@ -29,8 +29,8 @@ Pointer Array of Objects:
 Employee objects are created dynamically and accessed using pointer arithmetic.
 Static Members:
 Tracks total number of employees created using a static counter.
-Friend-like Object Interaction:
-Allows one object to access another’s data through functions like salary swapping.
+
+
 ---
 ## Code Structure
 
