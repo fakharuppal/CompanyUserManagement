@@ -21,15 +21,15 @@ The project is divided into three files for modularity:
 
 ## ⚙️ Features
 
-Dynamic Employee Creation:**
+Dynamic Employee Creation:
 Users can specify how many employee records to create, with memory allocated dynamically at runtime.
-**Deep Copy Constructor:**
+Deep Copy Constructor:
 Safely duplicates employee data (including dynamically allocated memory), demonstrating the difference from a shallow copy.
-**Pointer Array of Objects:**
+Pointer Array of Objects:
 Employee objects are created dynamically and accessed using pointer arithmetic.
-**Static Members:**
+Static Members:
 Tracks total number of employees created using a static counter.
-**Friend-like Object Interaction:**
+Friend-like Object Interaction:
 Allows one object to access another’s data through functions like salary swapping.
 ---
 ## Code Structure
